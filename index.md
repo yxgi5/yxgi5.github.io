@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-This page is a Navigtor for my github.
+This page is a Navigtor of my github.
 
 
 ### Scripts / Log / Utils
