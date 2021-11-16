@@ -31,7 +31,9 @@ This page is a Navigtor of my github.
 
 ### SoM / RPI ...
 
-#### AI / NNIE /
+#### AI / NNIE / ...
+
+### Math / matlab / Maple ....
 
 
 ### Android
