@@ -16,6 +16,11 @@ This page is a Navigtor of my github.
 ## 搭建机场
 [0430bpb](https://github.com/yxgi5/0430bpb)
 
+## ffmpeg
+
+在windows和linux环境使用qsv或nvenc编码器进行降码率编码为hevc，MP4封包
+
+[ffmpeg_bat_git](https://github.com/yxgi5/ffmpeg_bat_git)
 
 ## Schematic / PCB / qucs / Kicad ...
 
