@@ -170,7 +170,7 @@ i2c总线-FPGA-i2c总线, 相当于两边直通
 
 ## MCU / RTOS
 
-UML练手
+qpc练手
 [qpc_stm32f103ze-ek](https://github.com/yxgi5/qpc_stm32f103ze-ek)
 
 从armfly移植过来BSP层面, 挺好用的
