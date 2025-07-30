@@ -232,7 +232,7 @@ agx xavier
 ## Math / matlab / Maple ....
 
 格式互转
-[matlab_rgb_raw_conv]https://github.com/yxgi5/matlab_rgb_raw_conv
+[matlab_rgb_raw_conv](https://github.com/yxgi5/matlab_rgb_raw_conv)
 
 PPM格式互转
 
