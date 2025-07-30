@@ -2,7 +2,7 @@
 
 This page is a Navigtor of my github.
 
-近日赋闲在家, 稍微整理一下这个导航页吧.
+近日失业赋闲在家, 稍微整理一下这个导航页吧.
 
 ## makedeb
 
@@ -91,7 +91,11 @@ NANEYE摄像头接入项目,输出DVP
 
 [zynqmp_golden_update](https://github.com/yxgi5/zynqmp_golden_update)
 
+共用模块bsp
+[xilinx_common_bsp](https://github.com/yxgi5/xilinx_common_bsp)
 
+创建单一vivado和vitis项目的模板
+[vitis_template](https://github.com/yxgi5/vitis_template)
 
 中断系统研究
 [xilinx_soc_intr_system](https://github.com/yxgi5/xilinx_soc_intr_system)
@@ -116,6 +120,8 @@ ps端的pcie endpoint
 
 [Hdmi_Passthrough](https://github.com/yxgi5/Hdmi_Passthrough)
 
+[XCKU040_DP_test](https://github.com/yxgi5/XCKU040_DP_test)
+
 ### axis / HLS
 
 结合ILA查看axis信号波形的IP
@@ -133,6 +139,11 @@ ps端的pcie endpoint
 用HLS实现竖方向采样
 [vsampler](https://github.com/yxgi5/vsampler)
 
+[axis_4vc_mix](https://github.com/yxgi5/axis_4vc_mix)
+
+[hls_debayer](https://github.com/yxgi5/hls_debayer)
+
+[hls_bram_fifo](https://github.com/yxgi5/hls_bram_fifo)
 非HLS实现缩小视频
 [dresizer](https://github.com/yxgi5/dresizer)
 
@@ -202,9 +213,17 @@ UML练手
 
 ## SoM / RPI ...
 
-### AI / NNIE / ...
+rk3588驱动及设备树修改
 
-rknn
+[rk3588_xx_board](https://github.com/yxgi5/rk3588_xx_board)
+
+### rknn
+
+[mnist_pytorch_rknn](https://github.com/yxgi5/mnist_pytorch_rknn)
+
+[supercombo_rknn](https://github.com/yxgi5/supercombo_rknn)
+
+### cuda
 
 jetson nano
 
@@ -212,7 +231,12 @@ agx xavier
 
 ## Math / matlab / Maple ....
 
-simulink
+格式互转
+[matlab_rgb_raw_conv]https://github.com/yxgi5/matlab_rgb_raw_conv
+
+PPM格式互转
+
+### simulink
 
 
 ## Android
