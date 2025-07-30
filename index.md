@@ -2,7 +2,7 @@
 
 This page is a Navigtor of my github.
 
-近日失业赋闲在家, 稍微整理一下这个导航页吧.
+近日失业赋闲在家, 稍微整理一下这个导航页吧. 默念一句mother fucker给北京一男子.
 
 ## 操作系统维护流水帐
 
@@ -239,6 +239,7 @@ agx xavier
 [matlab_rgb_raw_conv](https://github.com/yxgi5/matlab_rgb_raw_conv)
 
 PPM格式互转
+[ppm-files](https://github.com/yxgi5/ppm-files)
 
 ### simulink
 
