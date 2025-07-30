@@ -4,6 +4,10 @@ This page is a Navigtor of my github.
 
 近日失业赋闲在家, 稍微整理一下这个导航页吧.
 
+## 操作系统维护流水帐
+
+[my_os_log](https://github.com/yxgi5/my_os_log)
+
 ## makedeb
 
 制作几个deb包
