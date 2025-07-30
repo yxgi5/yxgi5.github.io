@@ -131,6 +131,9 @@ ps端的pcie endpoint
 结合ILA查看axis信号波形的IP
 [axis_passthrough_monitor](https://github.com/yxgi5/axis_passthrough_monitor)
 
+AXI_LITE总线上挂一组寄存器, 其中一个可以通过constant给PL这边作为版本信息, 其他的用处也可扩展为根据寄存器值切换电路逻辑等
+[AXI_LITE_REG](https://github.com/yxgi5/AXI_LITE_REG)
+
 用HLS实现IP
 [rgb2bayer](https://github.com/yxgi5/rgb2bayer)
 
@@ -143,7 +146,11 @@ ps端的pcie endpoint
 用HLS实现竖方向采样
 [vsampler](https://github.com/yxgi5/vsampler)
 
+用于MIPI CSI输出的多vc mixer
 [axis_4vc_mix](https://github.com/yxgi5/axis_4vc_mix)
+
+MIPI CSI输入可能有多个VC用于拆分多个vc, 其实axis_switch用来做这个有不理想的地方, 所以做了这样的ip
+[vc_slice](https://github.com/yxgi5/vc_slice)
 
 [hls_debayer](https://github.com/yxgi5/hls_debayer)
 
