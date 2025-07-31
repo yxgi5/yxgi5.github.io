@@ -1,8 +1,10 @@
 # Welcome to My GitHub Pages
 
-This page is a Navigtor of my github.
+This page is a Navigtor of my github. 
 
-近日失业赋闲在家, 稍微整理一下这个导航页吧. 默念一句mother fucker给北京一男子.
+近日失业赋闲在家, 稍微整理一下这个导航页吧, 分享一些可能能给别人启发的东西。
+
+咱只有默念一句 mother fucker 给北京一男子.
 
 ## 操作系统维护流水帐
 
