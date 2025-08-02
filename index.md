@@ -190,6 +190,7 @@ qpc练手
 
 从armfly移植过来BSP层面, 挺好用的
 [stm32_v3_hal](https://github.com/yxgi5/stm32_v3_hal)
+[v5_bsp_hal](https://github.com/yxgi5/v5_bsp_hal)
 
 一个门禁卡项目
 [idcard_access](https://github.com/yxgi5/idcard_access)
