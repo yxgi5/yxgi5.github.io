@@ -269,3 +269,16 @@ java
 
 kotlin
 
+
+# 2d 3d drawing / Autocad / Draftsight / ARES Commander / freecad ...
+
+经常需要点定制亚克力或者板金件，这是一个电路板亚克力外壳基本构造
+[acrylic_box](https://github.com/yxgi5/acrylic_box)
+
+kicad 三维模型， TODO
+
+后续可以的话，希望能玩玩3d打印，能解决一些结构件定制化问题。
+
+
+
+
