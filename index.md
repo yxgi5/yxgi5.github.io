@@ -280,5 +280,16 @@ kicad 三维模型， TODO
 后续可以的话，希望能玩玩3d打印，能解决一些结构件定制化问题。
 
 
+# yocto
+
+imx和petalinux都基于yocto来构建开发环境, 有必要弄清楚yocto的一些基本概念和使用
+
+[my-poky-test](https://github.com/yxgi5/my-poky-test)
+
+
+
+
+
+
 
 
