@@ -195,6 +195,17 @@ qpc练手
 一个门禁卡项目
 [idcard_access](https://github.com/yxgi5/idcard_access)
 
+
+fsm_framework for MUC
+
+基于mx创建的makefile项目模板, 这里仅po出f103ze的一个, 基于这个改进makefile为静态编译hal-lib目的只是节省编译外设库函数时间, 
+
+用vscode+cortex-debug就是开发环境了, bear用于创建compile_commands.json,
+
+[fsm_evt_framweork](https://github.com/yxgi5/fsm_evt_framweork) 事件驱动的状态机简单框架
+
+[fsm_obsvr_framework](https://github.com/yxgi5/fsm_obsvr_framework) 解耦事件传递, observer模式实现轻量化pubsub
+
 ### Socket / Stack
 
 下面几个纯为了给UDP通信增加可靠性
